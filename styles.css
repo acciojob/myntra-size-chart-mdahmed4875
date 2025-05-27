@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+table{
+	width:100%;
+	border-collapse:collapse;
+	border:1px solid black;
+}
+th,td{
+	border:1px solid black;
+}
+td{
+	text-align:right;
+}
+th{
+	text-align:left;
+	background-color: hotpink;
+}
+#h1,#h2,#h3{
+	text-align:left;
+}
+#r1{
+	background-color:mediumvioletred;
+}
+#r2{
+	background-color:graytext;
+}
+#r3{
+	background-color:gray;
+}
